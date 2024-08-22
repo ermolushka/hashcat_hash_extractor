@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "hash_exxtractor"
+name = "hash_extractor"
 version = "0.1.0"
